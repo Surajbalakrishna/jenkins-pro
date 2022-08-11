@@ -96,14 +96,14 @@
 	<distributionManagement>
 	    <repository>
 	      <id>nexus</id>
-	      <name>TechDom Medical Services Releases Nexus Repository</name>
-	      <url> http://172.31.18.29:8081/repository/ebay-bts-releases/</url>
+	      <name>Services Releases Nexus Repository</name>
+	      <url> http://54.90.92.179:8081/repository/sample-releases/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>TechDom Medical Services Snapshot Nexus Repository </name>
-	      <url>http://100.24.52.91:4000/repository/ebay-bts-snapshot/</url>
+	      <name>Snapshot Nexus Repository</name>
+	      <url>http://http://54.90.92.179:8081/repository/sample-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
